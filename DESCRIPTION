@@ -1,0 +1,14 @@
+Package: BayMor
+Type: Package
+Title: Bayesian Multivariate Ordinal Regression
+Version: 1.0
+Date: 2018-08-22
+Author: Seyed M. Miran and Chen Ling
+Maintainer: Seyed M. Miran <sm201@zips.uakron.edu>
+Description: 	This package has been created to perform a multivariate ordinal
+License: GPL-2
+Imports: Rcpp (>= 0.12.18)
+LinkingTo: Rcpp, RcppArmadillo
+
+
+
